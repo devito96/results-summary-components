@@ -1,0 +1,19 @@
+@media (max-width: 475px){
+    .container {
+        flex-direction: column;
+        height: 100%;
+        width: 100vw;
+    }
+
+    .container .results {
+        width: 100%;
+    }
+
+    .container .summary {
+        width: 100%;
+    }
+
+    .results .congrats {
+        font-size: 1.8rem;
+    }
+}
